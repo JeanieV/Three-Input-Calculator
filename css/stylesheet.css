@@ -1,0 +1,30 @@
+body {
+    background-color: #A49393;
+}
+
+.button1 {
+    background-color: #E8B4B8;
+    width: 20vw;
+    height: 10vh;
+    border: none;
+    padding: 20px;
+    margin: 10px;
+    margin-left: 5%;
+    font-size: 20px;
+}
+
+.button2 {
+    background-color: #EED6D3;
+    width: 20vw;
+    height: 10vh;
+    border: none;
+    padding: 20px;
+    margin: 10px;
+    margin-left: 5%;
+    font-size: 20px;
+}
+
+h1 {
+    color: #F9F1F0;
+    
+}
