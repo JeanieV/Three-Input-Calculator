@@ -7,6 +7,7 @@ let input1;
 let input2;
 let input3;
 
+//First while loop to check if it is true or false
 while (firstCheck == false) {
 
     //First User Input and if it is invalid
@@ -22,7 +23,9 @@ while (firstCheck == false) {
     }
 }
 
+//Second while loop to check if it is true or false
 while (secondCheck == false) {
+
     //Second User Input and if it is invalid
     input2 = prompt("Kindly enter your second number: ");
 
@@ -37,7 +40,9 @@ while (secondCheck == false) {
     }
 }
 
+//Third while loop to check if it is true or false
 while (thirdCheck == false) {
+    
         //Third User Input
         input3 = prompt("Kindly enter a operator ( + , - , * or / ): ");
 
