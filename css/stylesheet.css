@@ -26,5 +26,16 @@ body {
 
 h1 {
     color: #F9F1F0;
-    
 }
+
+h2 {
+    color: #F9F1F0;
+}
+
+#value{
+ font-size: 30px;
+}
+
+#values{
+    font-size: 30px;
+   }
